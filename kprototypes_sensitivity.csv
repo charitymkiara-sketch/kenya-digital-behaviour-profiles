@@ -1,0 +1,2 @@
+k,initialization,n_init,max_iter,gamma,seed,ari_vs_kmeans
+3,Huang,30,100,0.5,42,0.931741177959149
